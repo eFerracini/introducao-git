@@ -3,3 +3,8 @@ git remote  add origin 'link do github'
 git add . - para adicionar todos os arquivos da pasta
 git commit -m "A mensagem que queira colocar"
 git push origin main - para subir para o github
+
+**agora estamos na branch nova 
+
+git checkout -b dev - trocamos para brach dev
+git branch - verificamos as branchs exitentes 
