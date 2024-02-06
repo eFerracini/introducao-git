@@ -7,4 +7,4 @@ git push origin main - para subir para o github
 **agora estamos na branch nova 
 
 git checkout -b dev - trocamos para brach dev
-git branch - verificamos as branchs exitentes 
+git branch - verificamos as branchs exitentes.
